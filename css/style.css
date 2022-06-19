@@ -1,0 +1,115 @@
+body {
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* _____________________________HOME ________________________*/
+#submit {
+    text-decoration: none;
+    text-align: center;
+    color: yellow;
+    font-size: 30px;
+}
+
+#submit:hover {
+    text-decoration: none;
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+}
+
+button {
+    border-radius: 30px;
+    display: block;
+    padding: 2%;
+    margin: auto;
+    margin-left: auto;
+    width: 50%;
+    background-color: blue;
+
+}
+
+button:hover {
+    border-radius: 35px;
+    background-color: rgb(247, 10, 187);
+    width: 70%;
+    border: 1px solid;
+    border-radius: 23;
+}
+
+#h1 {
+    padding: 2%;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cyan;
+
+}
+
+#h1:hover {
+    background-color: rgba(231, 233, 122, 50);
+
+}
+
+#marquee {
+    background-color: rgba(231, 233, 122, 50);
+    font-size: 30px;
+    color: crimson;
+}
+
+/* _____________________________REGISTERS ________________________*/
+
+input {
+    border-radius: 8px;
+    margin-left: 5px;
+    text-align: center;
+
+}
+
+#label {
+    margin-left: 5px;
+    background-color: rgb(234, 243, 152);
+}
+
+fieldset {
+    background-color: aquamarine;
+    margin-top: 10%;
+    border-radius: 12px;
+    margin-left: 35%;
+    width: 450px;
+    height: auto;
+}
+
+legend {
+    text-align: center;
+    color: rgba(243, 13, 13, 50);
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+
+.gender {
+    margin-left: 5px;
+
+
+}
+
+.button {
+    background-color: blueviolet;
+    color: rgb(239, 255, 10);
+
+    width: 40%;
+}
+
+.button:hover {
+    background-color: rgb(255, 16, 175);
+    color: rgb(15, 240, 101);
+    width: 43%;
+}
+
+
+
+#div1 {
+
+    margin-left: 300px;
+}
